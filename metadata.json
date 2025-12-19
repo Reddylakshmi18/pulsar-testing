@@ -1,0 +1,5 @@
+{
+  "name": "Pulsar Heartbeat Monitor",
+  "description": "A high-fidelity service monitoring dashboard featuring real-time health checks, ECG-style heartbeat visualizations, and AI-powered latency analysis using Gemini.",
+  "requestFramePermissions": []
+}
